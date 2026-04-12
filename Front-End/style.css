@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  background-color: #0b1f3a;
+  color: white;
+}
+
+header {
+  background-color: #b30000;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  background-color: white;
+  color: #0b1f3a;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.topo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.btn-add {
+  background-color: #004aad;
+  color: white;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.btn-add:hover {
+  background-color: #003080;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f2f2f2;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+li span {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+li span:hover {
+  color: #b30000;
+}
+
+.acoes {
+  display: flex;
+  gap: 10px;
+}
+
+.btn {
+  border: none;
+  padding: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Botões do seu modelo */
+.editar {
+  background: #004aad;
+  color: white;
+}
+.excluir {
+  background: #b30000;
+  color: white;
+}
+.contatos {
+  background: #0b1f3a;
+  color: white;
+}
+.btn:hover {
+  opacity: 0.8;
+}
+
+input, select {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.novo-contato {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+  align-items: center;
+}
+.novo-contato input, .novo-contato select {
+  margin-bottom: 0;
+}
+
+.hidden {
+  display: none;
+}
