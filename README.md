@@ -168,8 +168,13 @@ Acesse a pasta `/entregaveis` para visualizar:
 | Arquivo | Descrição |
 |---------|-----------|
 | 📊 **fluxograma.png** | Mapeamento visual das regras de negócio |
-| 🎬 **video-demonstrativo.mp4** | Demonstração do sistema em operação real |
+| 🎬 **video-demonstrativo.drive** | https://drive.google.com/file/d/1TQ_GVgaGgPQSTnLGwxqJeY91B8npC-0F/view?usp=sharing |
 
+📌 Observação:
+
+O vídeo demonstrativo não foi enviado diretamente para o repositório devido à limitação de tamanho de arquivos do GitHub (100MB por arquivo).
+
+Para garantir o acesso completo à demonstração do sistema sem comprometer o repositório, o vídeo foi hospedado no Google Drive.
 ---
 
 ## 🔗 Referências
@@ -177,6 +182,8 @@ Acesse a pasta `/entregaveis` para visualizar:
 - 📖 [Documentação Spring Boot](https://spring.io/projects/spring-boot)
 - 📖 [MDN Web Docs - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - 🎨 [FontAwesome Icons](https://fontawesome.com)
+- 🎥 Projeto Web API Java Spring Boot - 7 Conectando Front/Back (https://youtu.be/hsewph3Xphw?si=u9FGVgPX_d9K46-1)
+- 🎥 CRUD Java com Spring Boot 2025 (https://youtu.be/yW7RrWfUeHE?si=taN59QgO04E-1odf)
 
 ---
 
