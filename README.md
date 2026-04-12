@@ -16,7 +16,7 @@ Este projeto foi desenvolvido para fornecer uma plataforma **ágil e intuitiva**
 
 | Camada | Tecnologia |
 |--------|-----------|
-| **Backend** | Java 17 + Spring Boot + MySQL |
+| **Backend** | Java 21 + Spring Boot + MySQL |
 | **Frontend** | HTML5 + CSS3 + Vanilla JavaScript |
 | **Padrão** | REST API + SPA (Single Page Application) |
 
