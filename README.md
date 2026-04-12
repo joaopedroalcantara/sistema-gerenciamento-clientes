@@ -70,7 +70,7 @@ PROJETO-CADASTRO-S.A/
 │
 ├── entregaveis/
 │   ├── fluxograma.png          # Mapeamento visual
-│   └── video-demonstrativo.mp4 # Demonstração em uso
+│   └── video-demonstrativo.drive # Demonstração em uso
 │
 ├── SCRIPT.sql                  # Criação do Banco MySQL
 └── README.md                   # Documentação
