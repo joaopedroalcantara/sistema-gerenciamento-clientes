@@ -200,13 +200,13 @@ Maven instalado e configurado
 
 ---
 
-## 🤖 Sobre o Desenvolvimento
+## 🤖 Sobre uso de I.A
 
 Durante o desenvolvimento, foram utilizadas ferramentas de **Inteligência Artificial** (Gemini e ChatGPT) como assistentes de apoio para:
 
-- 🔍 Resolução rápida de dúvidas pontuais
-- 📖 Aprendizado de sintaxes específicas
-- 🐛 Análise e debugging de erros
+-  Resolução rápida de dúvidas pontuais
+-  Aprendizado de sintaxes específicas
+-  Análise e debugging de erros
 
 O impacto foi **altamente positivo**, otimizando o tempo de desenvolvimento e mantendo a qualidade do código em alta padrão.
 
@@ -226,6 +226,7 @@ Acesse a pasta `/entregaveis` para visualizar:
 O vídeo demonstrativo não foi enviado diretamente para o repositório devido à limitação de tamanho de arquivos do GitHub (100MB por arquivo).
 
 Para garantir o acesso completo à demonstração do sistema sem comprometer o repositório, o vídeo foi hospedado no Google Drive.
+
 ---
 
 ## 🔗 Referências
