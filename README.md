@@ -102,25 +102,76 @@ spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
 ```
 
-### 2️⃣ Rodando o Backend
+### 2️⃣ 🚀 Rodando o Backend
 
-```bash
+- 📁 Passo 1: Acesse a pasta
+
 cd backend
+
+- 📦 Passo 2:Instale as dependências
+
+mvn clean install
+
+- ▶️ Passo 3:Execute a aplicação
+
 mvn spring-boot:run
-```
 
-✅ API disponível em: **http://localhost:8080**
 
-### 3️⃣ Rodando o Frontend
 
-```bash
-cd frontend
-# Abra index.html em seu navegador
-```
+### ✅ Backend iniciado
 
-> 💡 **Dica:** O backend deve estar rodando para que os dados sejam carregados corretamente.
+A API estará disponível em:
+
+🔗 http://localhost:8080
+
+
+### ⚙️ Pré-requisitos
+
+Certifique-se de ter instalado:
+
+Java 17 ou superior
+Maven configurado no PATH
+MySQL em execução
+Lombok instalado e habilitado na IDE
+
+### 📌 Para usar o Lombok corretamente:
+
+Instale o plugin do Lombok na sua IDE (IntelliJ/Eclipse)
+Habilite o Annotation Processing
+
+### ⚠️ Problemas comuns
+🔸 Porta 8080 em uso
+
+Altere no application.properties:
+
+server.port=8081
+🔸 Erro ao conectar no banco
+
+Verifique se:
+
+O MySQL está rodando
+Usuário e senha estão corretos
+O banco foi criado
+
+🔸 Erros relacionados ao Lombok
+
+Se aparecer erro de getters/setters ou anotações:
+
+Verifique se o plugin do Lombok está instalado
+Confirme se o Annotation Processing está ativado na IDE
+
+🔸 Erro com Java ou Maven
+
+Certifique-se de ter:
+
+Java 17 ou superior
+Maven instalado e configurado
+
+> ### 💡 **Dica:** O backend deve estar rodando para que os dados sejam carregados corretamente.
+
 
 ---
+
 
 ## 📚 Dependências
 
